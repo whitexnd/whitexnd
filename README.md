@@ -1,1 +1,1 @@
-<img src="https://github.com/whitexnd/whitexnd/bike.gif" height="507" width="903">
+![bike](https://user-images.githubusercontent.com/103772333/203426530-33d5d015-b7d2-4b24-947a-5612a768fd8d.gif)
